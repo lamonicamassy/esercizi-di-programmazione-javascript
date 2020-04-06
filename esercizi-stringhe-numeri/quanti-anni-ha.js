@@ -11,3 +11,14 @@
 
   http://www.imparareaprogrammare.it
 */
+var annoCorrente = 2020;
+var annodiNascita = 1985;
+var quantity = annoCorrente-annodiNascita;
+console.log(quantity);
+/*
+età = 35
+anni mancanti = 65
+*/ 
+var età = 35; 
+var quantity = 100-età;
+console.log(quantity); 
