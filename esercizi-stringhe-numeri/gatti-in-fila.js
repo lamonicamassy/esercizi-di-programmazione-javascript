@@ -17,3 +17,12 @@
 
   http://www.imparareaprogrammare.it
 */
+var cats = 44; 
+var catsPerFila = 6; 
+var quantity = cats/catsPerFila; 
+console.log(quantity); 
+var ruondUp = 7.3;  
+var rounded = Math.ceil(roundUp); 
+console.log(rounded); 
+var catsMancanti = 4; 
+
